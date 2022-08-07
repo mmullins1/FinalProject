@@ -47,5 +47,5 @@ Two potential interview sources for this story would be Packers head coach Matt 
 Other data sources that could augment the article include the NFL Hall of Fame database, which could give me context for whether or not the trends I have noticed about 2021 apply to the historical greats of the NFL. A second additional data source would be the previous decade of passing data from Pro Football reference, which would be useful in illustrating if the trend is consistent with other years, and if there is a direction that these correlations are moving year-to-year.
 
 ## Data Visualization!
-![passer-s-touchdown-percentage-vs -winning-percentage (1)](https://user-images.githubusercontent.com/25110547/183278413-9804b7e1-0ab1-4844-afc0-c876479a9244.png)
-https://datawrapper.dwcdn.net/TBSY3/2/
+![passer-s-touchdown-percentage-vs -winning-percentage (2)](https://user-images.githubusercontent.com/25110547/183278720-e979ae00-ad70-432b-81d0-6e6ee6c53a6b.png)
+https://datawrapper.dwcdn.net/TBSY3/3/
