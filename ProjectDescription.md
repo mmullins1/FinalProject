@@ -49,3 +49,5 @@ Other data sources that could augment the article include the NFL Hall of Fame d
 ## Data Visualization!
 ![passer-s-touchdown-percentage-vs -winning-percentage (2)](https://user-images.githubusercontent.com/25110547/183278720-e979ae00-ad70-432b-81d0-6e6ee6c53a6b.png)
 https://datawrapper.dwcdn.net/TBSY3/3/
+![passer-s-interception-percentage-vs -winning-percentage](https://user-images.githubusercontent.com/25110547/183279629-0b60b4a5-8365-40bb-8de7-920b7f03ce61.png)
+https://datawrapper.dwcdn.net/iEalG/3/
